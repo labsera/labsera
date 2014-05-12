@@ -1,11 +1,15 @@
 {
-    "name": "labsera/labsera",
-    "type": "library",
-    "keywords": ["technology"],
-    "homepage": "http://labsera.com",
-    "authors": [
-        {
-            "name": "Hasan Tokatli"
-        }
-    ],
+	"name": "labsera/labsera",
+	"description": "Labsera",
+	"keywords": ["technology"],
+	"homepage": "http://www.yiiframework.com/",
+	"type": "project",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Hasan Tokatli",
+			"homepage": "http://hasantokatli.com/",
+		}
+		
+	]
 }
